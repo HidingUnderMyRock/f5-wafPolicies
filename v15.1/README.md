@@ -15,3 +15,5 @@ to services when declared via AS3.
 | compBlockingWafPolicy | A policy based on the comprehensive template, in blocking mode |
 | stdBlockingWafPolicy | A basic rapid deployment policy, in blocking mode, with high accuracy signatures added |
 | stdTransparentWafPolicy | A basic rapid deployment policy, in transparent mode, with high accuracy signatures added|
+| stdWafPolicy | A basic rapid deployment WAF policy |
+| stdCompWafPolicy | A basic comprehensive WAF policy |
